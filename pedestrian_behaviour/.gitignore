@@ -1,0 +1,10 @@
+# JAAD raw data and derived artefacts (download separately, see README)
+JAAD/
+data/processed_jaad/
+experiments/
+*.npy
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
